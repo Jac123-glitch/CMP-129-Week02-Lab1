@@ -1,3 +1,4 @@
+//Jacqueline CMP129 Week02 Lab 1 9/10/2026
 import java.util.*;
 public class CelsiusTable {
     public static double celsius(double fahrenheit){
